@@ -95,9 +95,6 @@ a:hover {
 .card-top-text {
   font-size: 0.86rem;
 }
-.card__body {
-  /* padding: 7px; */
-}
 .card-body-heading {
   display: inline-block;
   margin: 0.6rem;
